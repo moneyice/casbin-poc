@@ -6,7 +6,7 @@ https://github.com/VINO42/jcasbin-springboot-demo.git
 
 改动的地方：
  * 原项目使用g2, 改成了使用g
- * 数据库见表错误
+ * 数据库建表错误
  * 整体刷新策略表 casbin_rule
 
 
